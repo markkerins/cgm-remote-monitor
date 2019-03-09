@@ -122,6 +122,11 @@
       "value": "entries",
       "required": true
     },
+     "MONGO_CONNECTION": {
+      "description": "The Mongo collection where CGM data is stored.",
+      "value": "mongodb://hayleycgm:BWGsvTVIhNIZ0rJ1TbC3ppBqlKw0ebXq0XyAz9VVQ5UVhaNRNylXpbmVSSIwbIbxXL1Em7w5bfRpYICdKuiFMA==@hayleycgm.documents.azure.com:10255/?ssl=true&replicaSet=globaldb",
+      "required": true
+    },
     "NIGHT_MODE": {
       "description": "Default setting for new browser views, for whether Night Mode should be enabled. ('on' or 'off')",
       "value": "off",

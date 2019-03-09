@@ -1,4 +1,5 @@
 {
-    "url": null,
-    "collection": null
+    "url": "mongodb://hayleycgm:BWGsvTVIhNIZ0rJ1TbC3ppBqlKw0ebXq0XyAz9VVQ5UVhaNRNylXpbmVSSIwbIbxXL1Em7w5bfRpYICdKuiFMA==@hayleycgm.documents.azure.com:10255/?ssl=true&replicaSet=globaldb&dbName=hayleycgm",
+    "collection": "entities",
+    "dbName": "hayleycgm"
 }
